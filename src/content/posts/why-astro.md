@@ -1,5 +1,5 @@
 ---
-title: Why-Astro
+title: ทำไมวะตั้มจัง
 slug: why-astro
 description: Astro is an all-in-one web framework for building fast, content-focused websites. Learn more.
 category:
